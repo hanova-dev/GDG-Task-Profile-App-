@@ -1,0 +1,41 @@
+==== Sun 10/25/2026 23:33:20.60 ==== 
+Creating project profile_app...
+Resolving dependencies in `profile_app`...
+Downloading packages...
+Got dependencies in `profile_app`.
+Wrote 35 files.
+
+All done!
+You can find general documentation for Flutter at: https://docs.flutter.dev/
+Detailed API documentation is available at: https://api.flutter.dev/
+If you prefer video documentation, consider: https://www.youtube.com/c/flutterdev
+
+In order to run your application, type:
+
+  $ cd profile_app
+  $ flutter run
+
+Your application code is in profile_app\lib\main.dart.
+
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+Resolving dependencies...
+Downloading packages...
+  cupertino_icons 1.0.9 (2.0.0 available)
+< flutter_lints 5.0.0 (was 6.0.0) (6.0.0 available)
+< lints 5.1.1 (was 6.1.0) (6.1.0 available)
+  material_color_utilities 0.13.0 (0.13.1 available)
+  meta 1.18.3 (1.19.0 available)
+  test_api 0.7.12 (0.7.15 available)
+Changed 2 dependencies!
+6 packages have newer versions incompatible with dependency constraints.
+Try `flutter pub outdated` for more information.
+Analyzing profile_app...                                        
+No issues found! (ran in 5.0s)
+Pixel_7a
+Emulator ready. 
+List of devices attached
+emulator-5554	device
+
