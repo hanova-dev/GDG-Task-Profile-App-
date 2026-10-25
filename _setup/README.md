@@ -1,0 +1,38 @@
+# GDG Task: Personal Profile App and Profile / Portfolio UI
+
+Flutter task for **GDG CUI Attock Campus**.
+
+**Submitted by:** Muhammad Abdul Hanan, BS Software Engineering (Final Year), COMSATS University Islamabad, Attock Campus
+
+## Tasks
+
+**Task 1: Personal Profile App.** Shows my name, profile picture, short introduction, contact information, skills, a Contact Me button and icons, with proper spacing and alignment.
+
+**Task 2: Profile / Portfolio UI.** A home screen with a profile image, name, profession, About section, Skills section and a Contact button, built using Row, Column, Container, Card and Padding.
+
+Both tasks are in one app. Use the bottom navigation bar to switch between **Profile** (Task 1) and **Portfolio** (Task 2).
+
+## Screenshots
+
+| Profile | Contact and Skills | SnackBar |
+|---|---|---|
+| <img src="screenshots/01_profile_top.png" width="220"> | <img src="screenshots/02_profile_middle.png" width="220"> | <img src="screenshots/03_profile_contact_snackbar.png" width="220"> |
+
+| Portfolio | Roles and Skills | Contact Sheet |
+|---|---|---|
+| <img src="screenshots/04_portfolio_top.png" width="220"> | <img src="screenshots/05_portfolio_middle.png" width="220"> | <img src="screenshots/06_portfolio_contact_sheet.png" width="220"> |
+
+## Colour Scheme
+
+Olive, green, cream / off white and light orange.
+
+## How to Run
+
+```
+flutter pub get
+flutter run
+```
+
+## Tech
+
+Flutter, Dart, Material 3, Android Studio
